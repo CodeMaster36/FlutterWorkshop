@@ -1,6 +1,8 @@
 # Movie Nerd
 
-A new Flutter movie application.
+A new Flutter movie application usiing OMDB API
+
+Make sure to use your own API Key
 
 ## Getting Started
 
