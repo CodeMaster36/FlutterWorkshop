@@ -1,4 +1,4 @@
-# m1
+# Movie Nerd
 
 A new Flutter movie application.
 
